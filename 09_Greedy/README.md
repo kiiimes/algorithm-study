@@ -10,14 +10,14 @@
 
 ## 개념 정리
 
-| 수민      | 새음 | 석렬 | 지현 |
-| ------------------------- | ---- | ---- | ---- |
-| 여기에 개념 정리한 링크들 |      | |      |
+| 은숙      |
+| ------------------------- | 
+| 여기에 개념 정리한 링크들 | 
 
 <br>
 
 ## 추천문제
-|          순번          |        문제 이름         |         난이도          | 수민 |
+|          순번          |        문제 이름         |         난이도          | 은숙 |
 | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||
 | 01 | <a href="https://www.acmicpc.net/problem/2217" target="_blank">로프</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> ||
