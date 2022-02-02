@@ -31,7 +31,7 @@
 | 09 | <a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|
 | 10 | <a href="https://www.acmicpc.net/problem/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
 | 11 | <a href="https://www.acmicpc.net/problem/20365" target="_blank">블로그2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
-| 12 | <a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
+| 12 | <a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |✅|
 | 13 | <a href="https://www.acmicpc.net/problem/21758" target="_blank">꿀 따기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
 | 14 | <a href="https://www.acmicpc.net/problem/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 15 | <a href="https://www.acmicpc.net/problem/16953" target="_blank">A → B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
