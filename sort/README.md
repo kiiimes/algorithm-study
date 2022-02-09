@@ -29,7 +29,7 @@
 |          순번          |        문제 이름         |         난이도          |        은숙        |
 | :-----: | :-----: | :-----: | :-----: |
 |01| [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) ||✅|
-|02| [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) |||
+|02| [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) ||✅|
 |03| [https://www.acmicpc.net/problem/11651](https://www.acmicpc.net/problem/11651) |||
 |04| [https://www.acmicpc.net/problem/11656](https://www.acmicpc.net/problem/11656)|||
 |05| [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) |||
