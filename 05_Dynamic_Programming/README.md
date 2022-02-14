@@ -43,7 +43,7 @@
 | 19 | <a href="https://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 20 | <a href="https://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 21 | <a href="https://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
-| 22 | <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
+| 22 | <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |✅|
 | 23 | <a href="https://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 24 | <a href="https://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 25 | <a href="https://www.acmicpc.net/problem/9084" target="_blank">동전</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
