@@ -20,7 +20,7 @@
 
 ## 추천문제
 | 순번 |                           문제 이름                            |                                       난이도                                        | 은숙 |
-| :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: |
+| :--: | :------------------------------------------------------------: | :---------------------------------------------------------------------------------- | :--: |
 | 00 | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|
 | 01 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |✅|
 | 02 | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
